@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddcde951-1376-49ba-8fa5-6f997b5f8d5f" name="Default Changelist" comment="" />
+    <list default="true" id="ddcde951-1376-49ba-8fa5-6f997b5f8d5f" name="Default Changelist" comment="Missed files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,29 +57,61 @@
       <option name="presentableId" value="Default" />
       <updated>1603230461840</updated>
       <workItem from="1603230462878" duration="2844000" />
-      <workItem from="1603334260385" duration="2948000" />
+      <workItem from="1603334260385" duration="3533000" />
+      <workItem from="1603339720409" duration="953000" />
     </task>
+    <task id="LOCAL-00001" summary="Missed files">
+      <created>1603339182465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603339182465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Missed files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Missed files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="216" y="195" key="FileChooserDialogImpl" timestamp="1603230559269">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="216" y="195" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1603230559269" />
-    <state x="263" y="334" width="508" height="202" key="Github.ShareDialog" timestamp="1603338827046">
+    <state x="263" y="334" width="508" height="202" key="Github.ShareDialog" timestamp="1603340031838">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="263" y="334" width="508" height="202" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1603338827046" />
+    <state x="263" y="334" width="508" height="202" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1603340031838" />
     <state x="223" y="131" key="Github.UntrackedFilesDialog" timestamp="1603338850320">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="131" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1603338850320" />
-    <state x="200" y="172" key="Vcs.Push.Dialog.v2" timestamp="1603339016542">
+    <state x="200" y="172" key="Vcs.Push.Dialog.v2" timestamp="1603339194072">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="200" y="172" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603339016542" />
+    <state x="200" y="172" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603339194072" />
+    <state x="588" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603339908727">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="588" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1603339908727" />
+    <state x="500" y="328" key="git4idea.ui.GitResetDialog" timestamp="1603339968394">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="500" y="328" key="git4idea.ui.GitResetDialog/0.0.1536.864@0.0.1536.864" timestamp="1603339968394" />
   </component>
 </project>
